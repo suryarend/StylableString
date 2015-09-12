@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Contains styles for string resources, 
+         each item contains the index of the string in the resource and corresponding stye seperated by '|' index|style
+    -->
+    <string-array name="MetricFormat">
+        <item>0|MetricValue</item>
+        <item>1|MetricUnit</item>
+    </string-array>
+</resources>
